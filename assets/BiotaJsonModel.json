@@ -1,0 +1,139 @@
+{
+   "Name": {
+      "english": "Yogesh Adhav",
+      "marathi": "योगेश आढाव"
+   },
+   "JobProfile": {
+      "english": "SOFTWARE ENGINEER",
+      "marathi": "SOFTWARE ENGINEER"
+   },
+   "Facebook": "xyz",
+   "Instagram": "xyz",
+   "Email": "xyz",
+   "CompanyName": {
+      "english": "Biota-Gen India Pvt Ltd.Pune",
+      "marathi": "Biota-Gen India Pvt Ltd.Pune"
+   },
+   "Hobby": {
+      "english": "I love To Travel and Play Cricket.",
+      "marathi": "मला प्रवास करणे आणि क्रिकेट खेळायला आवडते."
+   },
+   "PersonalInformation": {
+      "FullName": {
+         "english": "Yogesh Baburao Adhav",
+         "marathi": "योगेश बाबुराव आढाव"
+      },
+      "DateOfBirth": {
+         "english": "13/03/1994",
+         "marathi": "१३ /०३/१९९४"
+      },
+      "BirthPlace": {
+         "english": "Nashik",
+         "marathi": "नाशिक"
+      },
+      "BirthTime": {
+         "english": "2:45PM",
+         "marathi": "२:४५ रात्री"
+      },
+      "Colour": {
+         "english": "Brown",
+         "marathi": "सावळा"
+      },
+      "Height": {
+         "english": "6.1feet",
+         "marathi": "६.१ फूट"
+      },
+      "BloodGroup": {
+         "english": "B +Ve",
+         "marathi": "B +Ve"
+      },
+      "Gotra": {
+         "english": "Kashya",
+         "marathi": "काश्य"
+      },
+      "Ras": {
+         "english": "Kark",
+         "marathi": "कर्क"
+      },
+      "Kuldaivat": {
+         "english": "Tulja Bhavani(Tuljapur)",
+         "marathi": "तुलजा भवानी (तुलजापुर)"
+      },
+      "RasName": {
+         "english": "Satish",
+         "marathi": "सतीश"
+      },
+      "Caste": {
+         "english": "Hindu-Maratha",
+         "marathi": "हिंदू-मराठा"
+      }
+   },
+   "Qualification": {
+      "Education": {
+         "english": "Bacholer of Computer Science (BCS),Beed",
+         "marathi": "Bacholer of Computer Science (BCS), "
+      },
+      "Job": {
+         "english": "Software Engineer in Biota-Gen Pune.",
+         "marathi": "Software Engineer in Biota-Gen,पुणे"
+      }
+   },
+   "FamilyInformation": {
+      "FatherName": {
+         "english": "Baburao Sahebrao Adhav(Business)",
+         "marathi": "बाबुराव साहेबराव आढाव (व्यवसाय)"
+      },
+      "MotherName": {
+         "english": "Neeta Baburao Adhav(House Wife)",
+         "marathi": "नीता बाबुराव आढाव (गृहिणी)"
+      },
+      "SisterName": {
+         "english": "Nalini Baburao Adhav(BSC)",
+         "marathi": "नलिनी बाबुराव आढाव (बीएससी)"
+      },
+      "BrotherName": {
+         "english": "Anil Baburao Adhav(BA)",
+         "marathi": "अनिल बाबुराव आढाव (बीए)"
+      },
+      "Uncle": {
+         "english": "Arun Sagar Adhav(Glass & Alluminuam), Sandip Sagar Adhav(DJ Operator)",
+         "marathi": "अरुण सागर आढाव (ग्लास अँड अल्युमिनिअम), संदिप सागर आढाव (डीजे ऑपरेटर)"
+      },
+      "Mama": {
+         "english": "Sunil Ramnath Kale(Jalna)",
+         "marathi": "सुनील रामनाथ काळे (जालना)"
+      },
+      "Aatya": {
+         "english": "Meena patil(Pune), Swati Kumbhar(Aurangabad), Archana Nagare(Aurangabad)",
+         "marathi": "मीना पाटील (पुणे), स्वाती कुंभार (औरंगाबाद), अर्चना नागरे (औरंगाबाद)"
+      },
+      "Mavshi": {
+         "english": "Rachana Salunke(Shivna)",
+         "marathi": "रचना साळुंके (शिवना)"
+      },
+      "Relatives": {
+         "english": "Patil(Pune),Kumbhar(Aurangabad), Nagare(Aurangabad), Salunke(Shivna)",
+         "marathi": "पाटील (पुणे), कुंभार (औरंगाबाद), नागरे (औरंगाबाद), साळुंके (शिवना)"
+      }
+   },
+   "ContactMe": {
+      "EmailId": {
+         "english": "yogesh12@gmail.com",
+         "marathi": "yogesh12@gmail.com"
+      },
+      "MobileNo": {
+         "english": "1234567890",
+         "marathi": "1234567890"
+      }
+   },
+   "Photos":{
+      "ProfilePhotoName":"assets/Profile.jpg",
+      "GalleryPhoto":{
+         "Photo1":"assets/G(1).jpg",
+         "Photo2":"assets/G(2).jpg",
+         "Photo3":"assets/G(3).jpg",
+         "Photo4":"assets/G(4).jpg",
+         "Photo5":"assets/G(5).jpg"
+      }
+   }
+}
