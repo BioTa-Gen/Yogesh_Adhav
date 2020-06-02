@@ -10,7 +10,7 @@
    "Facebook": "xyz",
    "Instagram": "xyz",
    "Email": "xyz",
-   "CompanyLink":"https://www.techmahindra.com/en-in/?f=1240047482",
+   "CompanyLink":"https://",
    "CompanyExperience":"3 Years.",
    "CompanyName": {
       "english": "Biota-Gen India Pvt Ltd.Pune",
@@ -81,6 +81,14 @@
       }
    },
    "FamilyInformation": {
+      "GrandfatherName": {
+         "english": "Sahebrao Vitthal Adhav",
+         "marathi": "साहेबराव विठ्ठल आढाव"
+      },
+      "GrandmotherName": {
+         "english": "Nandabai Sahebrao Adhav",
+         "marathi": "नंदाबाई साहेबराव आढाव"
+      },
       "FatherName": {
          "english": "Baburao Sahebrao Adhav(Business)",
          "marathi": "बाबुराव साहेबराव आढाव (व्यवसाय)"
@@ -120,8 +128,8 @@
    },
    "ContactMe": {
       "EmailId": {
-         "english": "yogesh12@gmail.com",
-         "marathi": "yogesh12@gmail.com"
+         "english": "yogesh123@gmail.com",
+         "marathi": "yogesh123@gmail.com"
       },
       "MobileNo": {
          "english": "1234567890",
@@ -136,7 +144,7 @@
          "Photo3":"assets/G (3).jpg",
          "Photo4":"assets/G (4).jpg",
          "Photo5":"assets/G (5).jpg",
-         "Photo6":"assets/G (6).jpg"
+		 "Photo6":"assets/G (6).jpg"
       }
    }
 }
