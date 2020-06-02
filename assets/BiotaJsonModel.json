@@ -10,8 +10,8 @@
    "Facebook": "xyz",
    "Instagram": "xyz",
    "Email": "xyz",
-   "CompanyLink":"https://",
-   "CompanyExperience":"3 Years.",
+   "CompanyLink": "https://",
+   "CompanyExperience": "3 Years.",
    "CompanyName": {
       "english": "Biota-Gen India Pvt Ltd.Pune",
       "marathi": "Biota-Gen India Pvt Ltd.Pune"
@@ -136,15 +136,15 @@
          "marathi": "1234567890"
       }
    },
-   "Photos":{
-      "ProfilePhotoName":"assets/Profile.jpg",
-      "GalleryPhoto":{
-         "Photo1":"assets/G (1).jpg",
-         "Photo2":"assets/G (2).jpg",
-         "Photo3":"assets/G (3).jpg",
-         "Photo4":"assets/G (4).jpg",
-         "Photo5":"assets/G (5).jpg",
-		 "Photo6":"assets/G (6).jpg"
+   "Photos": {
+      "ProfilePhotoName": "assets/Profile.jpg",
+      "GalleryPhoto": {
+         "Photo1": "assets/G (1).jpg",
+         "Photo4": "assets/G (2).jpg",
+         "Photo3": "assets/G (3).jpg",
+         "Photo2": "assets/G (4).jpg",
+         "Photo5": "assets/G (5).jpg",
+         "Photo6": "assets/G (6).jpg"
       }
    }
 }
